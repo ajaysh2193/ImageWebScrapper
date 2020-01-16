@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-@author: Krish Naik
-"""
+
 # Importing the necessary Libraries
 from flask_cors import CORS,cross_origin
 from flask import Flask, render_template, request,jsonify
